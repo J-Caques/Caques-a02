@@ -1,0 +1,20 @@
+
+Q	java:S125"<This block of commented-out lines of code should be removed.(×è‘•
+N	java:S106"9Replace this use of System.out or System.err by a logger.(İ‰®è
+N	java:S106"9Replace this use of System.out or System.err by a logger.(™†ÌÀ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(Â›úF
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(¹îª©ıÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(ÍÒ«Şúÿÿÿÿ
+S	java:S106("9Replace this use of System.out or System.err by a logger.(§ò³õşÿÿÿÿ
+9
+java:S11166"Remove this empty statement.(ıÊÄ’8‰‡ÊÜ¾/
+8
+java:S11167"Remove this empty statement.(‹—Í8àÏÊÜ¾/
+M	java:S1069"9Replace this use of System.out or System.err by a logger.(ô¡÷Q
+N
+java:S1128"1Remove this unused import 'java.math.BigDecimal'.(êêŠ8ÃêÊÜ¾/
+P
+java:S1128"3Remove this unused import 'java.math.RoundingMode'.(¿ì†‹8ÃêÊÜ¾/
+]
+java:S21840"BCast one of the operands of this addition operation to a "double".(Ôğ•ºûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ößáşÿÿÿÿ

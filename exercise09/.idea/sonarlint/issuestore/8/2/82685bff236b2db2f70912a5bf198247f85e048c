@@ -1,0 +1,10 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ùî¢¿
+N	java:S106"9Replace this use of System.out or System.err by a logger.(–óÏ½
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(éÖ›
+N
+java:S1128"1Remove this unused import 'java.math.BigDecimal'.(êêŠ8¤ìÊÛ¾/
+P
+java:S1128"3Remove this unused import 'java.math.RoundingMode'.(¿ì†‹8¤ìÊÛ¾/
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åÙèÖ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üä7
